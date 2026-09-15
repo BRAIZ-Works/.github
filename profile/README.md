@@ -16,7 +16,7 @@ A founding paper on the operating layer between AI intelligence and reliably com
 
 Publication repository: https://github.com/BRAIZ-Works/ubuildos-verified-completion-thesis
 
-Reserved DOI: `10.5281/zenodo.22775537`
+DOI: `10.5281/zenodo.22775537`
 
 ## Public contact
 
